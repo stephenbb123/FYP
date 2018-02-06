@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/CFX_MainMenu/OfficialScenes/TestAR.unity
     guid: 5da665924d892b9438ee77eefb5fa2df
+  - enabled: 1
+    path: Assets/CFX_MainMenu/OfficialScenes/TestAR2.unity
+    guid: 26bed5142c757bf4580a330969f2e84e
